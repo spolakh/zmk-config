@@ -30,7 +30,7 @@
 &kp TAB   &kp Q  &kp W  &kp E    &kp R     &kp T                          &kp Y    &kp U     &kp I     &kp O   &kp P    &kp BSLH
 &kp ESC   &kp A  &kp S  &kp D    &kp F     &kp G                          &kp H    &kp J     &kp K     &kp L   &kp SEMI &kp GRAVE
 &kp LSHFT &kp Z  &kp X  &kp C    &kp V     &kp B      &kp LBKT  &kp RBKT  &kp N    &kp M     &kp COMMA &kp DOT &kp FSLH &kp RSHFT
-                        &kp BSPC &kp ENTER &mo RCTRL  &kp LCMD  &kp RCMD  &mo LALT &kp SPACE &kp DEL
+                        &kp BSPC &mo RCTRL &kp ENTER  &kp LCMD  &kp RCMD  &kp SPACE &mo LALT &kp DEL
 			>;
 
 			sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN>;
